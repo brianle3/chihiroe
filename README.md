@@ -1,0 +1,2 @@
+# chihiroe
+Basic Discord Chatbot
